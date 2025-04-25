@@ -1,7 +1,7 @@
 # 🚀 Lambda Lift-Off: User Greeter API
 
 <p float="left">
-  <img src="assets/carousel/f1cd4cae-ecd5-4bcf-95d7-a53e08b64dc2.png" width="600"/>
+  <img src="assets/carouel/1.png"/>
 </p>
 
 > Mastered a serverless API with AWS — efficiently saving & fetching names!
